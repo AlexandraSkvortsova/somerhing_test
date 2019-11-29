@@ -1,1 +1,2 @@
-do smth tree
+do smth tree;
+точки с запятой
