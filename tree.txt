@@ -1,2 +1,4 @@
 do smth tree;
+new root
+something else
 точки с запятой
